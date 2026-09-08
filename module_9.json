@@ -1,0 +1,15 @@
+{
+  "name": "cyber-kernel-4840",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2666,
+    "createdAt": "2026-09-08T11:00:15.871Z"
+  }
+}
